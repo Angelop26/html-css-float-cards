@@ -47,6 +47,12 @@ body{
     color: blue;
 }
 
+.job{
+    font-size: .8rem;
+}
+.info *{
+    margin-bottom: .3rem;
+}
 /* Layout */
 .col{
     width: calc(100% / 3 -(40px / 3));
