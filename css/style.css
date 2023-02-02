@@ -10,3 +10,18 @@
 body{
     font-family: 'Fredoka', sans-serif;
 }
+
+/* MAIN */
+
+.main-container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.title{
+    color: palevioletred;
+}
+
+.title-section{
+    text-align: center;
+}
